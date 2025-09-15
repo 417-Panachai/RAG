@@ -1,10 +1,10 @@
 # This file open and develop on Colab
 
-go to colab web : https://colab.research.google.com
-upload file to colab for testing.
-change runtime to GPU
+Go to colab web : https://colab.research.google.com
+<br> Upload file to colab for testing.
+<br> Change runtime to GPU
 
-in this file have 2 section
+In this file have 2 section
 
 1. Collection data with web scapping.
 - Collected from question and answer threads (only those with doctors answering) from the website https://www.agnoshealth.com/forums/
