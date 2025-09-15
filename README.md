@@ -2,6 +2,7 @@
 
 go to colab web : https://colab.research.google.com
 upload file to colab for testing.
+change runtime to GPU
 
 in this file have 2 section
 
