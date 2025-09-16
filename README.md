@@ -3,6 +3,7 @@
 Go to colab web : https://colab.research.google.com
 <br> Upload file to colab for testing.
 <br> Change runtime to GPU
+<br> press Ctrl + F9 on Windows or Command + F9 on Mac for run all cell.
 
 In this file have 2 section
 
